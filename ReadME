@@ -1,1 +1,3 @@
 Для билда проекта нужно использовать команду: docker-compose up --build
+
+Если у тебя на латыни то просто сделай docker-compose -p test_db up --build
